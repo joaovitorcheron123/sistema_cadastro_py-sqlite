@@ -1,0 +1,1 @@
+Registro.place(x=100,y=200)
